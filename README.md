@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklein&label=Profile%20views&color=0e75b6&style=flat" alt="tjklein" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjklein" alt="tjklein" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjklein&row=1" alt="tjklein" /></a> </p>
 <p align="left"> <a href="https://twitter.com/t_j_klein" target="blank"><img src="https://img.shields.io/twitter/follow/t_j_klein?logo=twitter&style=for-the-badge" alt="t_j_klein" /></a> </p>
 
 - 🔭 I’m currently working on: 
