@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjklein&row=1&theme=darkhub" alt="tjklein" /></a> </p>
 <p align="left"> <a href="https://twitter.com/t_j_klein" target="blank"><img src="https://img.shields.io/twitter/follow/t_j_klein?logo=twitter&style=for-the-badge" alt="t_j_klein" /></a> </p>
 
-- 🔭 I’m currently working on: 
+- I’m currently working on: 
   * Representation learning in NLP with **minimal supervision**
      
       * Pre-print paper [arXiv](https://arxiv.org/abs/2211.04928) on self-supervised information-theoretic sentence representation learning. 
@@ -15,7 +15,7 @@
   * Natural-language generation
   * Integration of **knowledge-graphs** into **language models**
 
-- 👨‍💻 All of my projects are available at [https://tjklein.github.io](https://tjklein.github.io)
+- All of my projects are available at [https://tjklein.github.io](https://tjklein.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
