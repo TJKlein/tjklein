@@ -7,13 +7,12 @@
 <p align="left"> <a href="https://twitter.com/t_j_klein" target="blank"><img src="https://img.shields.io/twitter/follow/t_j_klein?logo=twitter&style=for-the-badge" alt="t_j_klein" /></a> </p>
 
 - 🔭 I’m currently working on: 
-  * Representation learning for NLP (see my latest ACL'22 paper)
-  
-   
-      * [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847) 
-      * [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/)
-  
-  
+  * Representation learning in NLP with **minimal supervision**
+     
+      * Pre-print paper [arXiv](https://arxiv.org/abs/2211.04928) on self-supervised information-theoretic sentence representation learning. 
+      * Paper at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning.  
+      [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/)
+  * Natural-language generation
   * Integration of **knowledge-graphs** into **language models**
 
 - 👨‍💻 All of my projects are available at [https://tjklein.github.io](https://tjklein.github.io)
