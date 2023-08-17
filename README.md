@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tassilo</h1>
-<h3 align="center">AI research scientist with focus on natural language processing</h3>
+<h3 align="center">Principial Research Scientist at SAP AI CTO Office</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklein&label=Profile%20views&color=0e75b6&style=flat" alt="tjklein" /> </p>
 
