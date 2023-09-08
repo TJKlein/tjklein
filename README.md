@@ -13,10 +13,9 @@
       [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2023-micse/)
       * Paper at [ACL 2022](https://2022.aclweb.org/) on self-supervised sentence representation learning.  
       [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/)
-  * Representation learning with minimal supervision
-  * Natural-language generation
-  * AI safety
-  * Integration of **knowledge-graphs** into **language models**
+  * Learning with minimal supervision (few-shot, self-supervised)
+  * LLM alignment (integration of knowledge-graphs)
+  * Multi-modal LLMs (advanced reasoning with LLMs, knowledge-grounded LLMs)
 
 - All of my projects are available at [https://tjklein.github.io](https://tjklein.github.io)
 
