@@ -1,22 +1,31 @@
 <h1 align="center">Hi 👋, I'm Tassilo</h1>
-<h3 align="center">Principial Research Scientist at SAP AI CTO Office</h3>
+<h3 align="center">Principal Research Scientist & Research Manager | SAP AI CTO Office</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklein&label=Profile%20views&color=0e75b6&style=flat" alt="tjklein" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tjklein&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+  <a href="https://twitter.com/t_j_klein" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/t_j_klein?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjklein&row=1&theme=darkhub" alt="tjklein" /></a> </p>
-<p align="left"> <a href="https://twitter.com/t_j_klein" target="blank"><img src="https://img.shields.io/twitter/follow/t_j_klein?logo=twitter&style=for-the-badge" alt="t_j_klein" /></a> </p>
+---
 
-- I’m currently working on: 
-  * Representation learning in NLP with **minimal supervision**
-     
-      * Paper at [ACL 2023](https://2023.aclweb.org/) on self-supervised few-shot sentence representation learning.   
-      [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2023-micse/)
-      * Paper at [ACL 2022](https://2022.aclweb.org/) on self-supervised sentence representation learning.  
-      [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/)
-  * Learning with minimal supervision (few-shot, self-supervised)
-  * Foundation models for tabular data (table representation learning)
-  * LLM alignment
-  * Multi-modal LLMs (advanced reasoning with LLMs, knowledge-grounded LLMs)
+### 🧑‍💻 About Me
+I am a **Principal Research Scientist and Research Manager** in the SAP AI CTO Office, working on  
+**Natural Language Processing (NLP)**, **large language models (LLMs)**, and **machine learning for enterprise structured data**.  
+
+I have authored **50+ publications** at top venues (ACL, EMNLP, CVPR, MICCAI) and am co-inventor of **30+ patents** in industrial and enterprise AI. My work spans from **knowledge-augmented and controllable LLMs** to **privacy-preserving AI** and **intelligent agents**.
+
+🌐 More about me: [tjklein.github.io](https://tjklein.github.io)
+
+---
+
+### 🔍 Current Research Interests
+- **LLMs & NLP** — knowledge augmentation, controllable generation  
+- **Representation learning** for structured/tabular data  
+- **Few-shot & self-supervised learning**  
+- **Multi-modal AI** (text, vision, structured data)  
+- **Intelligent agents** for complex workflows  
 
 - All of my projects are available at [https://tjklein.github.io](https://tjklein.github.io)
 
