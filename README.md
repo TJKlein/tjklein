@@ -1,39 +1,38 @@
-<h1 align="center">Hi 👋, I'm Tassilo</h1>
-<h3 align="center">Principal Research Scientist & Research Manager | SAP AI CTO Office</h3>
+# Tassilo J. Klein
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tjklein&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
-  <a href="https://twitter.com/t_j_klein" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/t_j_klein?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
+**Principal Research Scientist & Research Manager · SAP AI CTO Office**
 
----
+I help teams turn advanced AI research into working systems for enterprise data, agentic workflows, and AI-native products. I lead ML research at the SAP AI CTO Office, and advise startups as a scientific advisor on agentic systems, generative UI, and applied AI strategy.
 
-### 🧑‍💻 About Me
-I am a **Principal Research Scientist and Research Manager** in the SAP AI CTO Office, working on  
-**Natural Language Processing (NLP)**, **large language models (LLMs)**, and **machine learning for enterprise structured data**.  
+My background spans enterprise AI, NLP, multimodal representation learning, privacy-preserving AI, and controllable generation. I have authored 50+ publications at venues including ACL, EMNLP, CVPR, and MICCAI, and I am a co-inventor on 30+ patents in industrial and enterprise AI.
 
-I have authored **50+ publications** at top venues (ACL, EMNLP, CVPR, MICCAI) and am co-inventor of **30+ patents** in industrial and enterprise AI. My work spans from **knowledge-augmented and controllable LLMs** to **privacy-preserving AI** and **intelligent agents**.
-
-🌐 More about me: [tjklein.github.io](https://tjklein.github.io)
+[Website](https://tjklein.github.io) · [LinkedIn](https://www.linkedin.com/in/tassiloklein) · [Google Scholar](https://scholar.google.com/citations?user=z7-L4ywAAAAJ)
 
 ---
 
-### 🔍 Current Research Interests
-- **LLMs & NLP** — knowledge augmentation, controllable generation  
-- **Representation learning** for structured/tabular data  
-- **Few-shot & self-supervised learning**  
-- **Multi-modal AI** (text, vision, structured data)  
-- **Intelligent agents** for complex workflows  
+## Current Focus
 
-- All of my projects are available at [https://tjklein.github.io](https://tjklein.github.io)
+- Foundation models for structured and enterprise data
+- Representation learning for tables, relations, and multimodal data
+- Knowledge-augmented and controllable language models
+- Agentic systems for complex workflows
+- Scientific advising for startups working on agentic AI, generative UI, and applied AI systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/t_j_klein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t_j_klein" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tassiloklein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tassiloklein" height="30" width="40" /></a>
-<a href="https://medium.com/@tjklein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tjklein" height="30" width="40" /></a>
-</p>
+---
 
-![](https://hit.yhype.me/github/profile?user_id=7634373)
+## Selected Signals
+
+- Principal Research Scientist & Research Manager at SAP AI CTO Office
+- Former postdoc at MIT CSAIL and Harvard Medical School
+- Ph.D. summa cum laude from TU Munich
+- 50+ publications across NLP, computer vision, medical imaging, and enterprise AI
+- 30+ patents in applied and industrial AI
+- Mentor to researchers and Ph.D. students now at top labs and universities
+
+---
+
+## Projects & Writing
+
+Most current projects, publications, and research updates are collected on my website:
+
+[tjklein.github.io](https://tjklein.github.io)
