@@ -36,3 +36,5 @@ My background spans enterprise AI, NLP, multimodal representation learning, priv
 Most current projects, publications, and research updates are collected on my website:
 
 [tjklein.github.io](https://tjklein.github.io)
+
+![](https://hit.yhype.me/github/profile?user_id=7634373)
