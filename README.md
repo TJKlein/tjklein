@@ -1,4 +1,4 @@
-# Tassilo J. Klein
+# Tassilo J. Klein. Ph.D.
 
 **Principal Research Scientist & Research Manager · SAP AI CTO Office**
 
